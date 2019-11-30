@@ -1,15 +1,28 @@
-# Site Settings
-title: Matias Tassano
-email: tasso.matias@gmail.com
-description: >
-  Homepage of Matias Tassano.
-baseurl: ""
-url: "https://m-tassano.github.io"
-linkedin_username: matias-tassano
-github_username: m-tassano
-# Build Settings
-sass:
-  sass_dir: _sass
-include: ['_pages']
+markdown: kramdown
 kramdown:
   input: GFM
+# Site settings
+title: Matias Tassano
+description: Homepage
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://m-tassano.github.io"
+
+# User settings
+username: Matias Tassano
+user_description: I am Senior Engineer at GoPro Paris. PhD in Applied Mathematics from <a href="https://www.univ-paris5.fr/">Paris Descartes University</a>. My research interests include neural networks for image and video restoration, computer vision, and image processing.
+user_title: Senior Engineer @ GoPro Paris
+email: tasso.matias@gmail.com
+github_username:  m-tassano
+linkedin_username: matias-tassano
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
+
+# Build Settings
+#sass:
+#  sass_dir: _sass
+# include: ['_pages']
+
