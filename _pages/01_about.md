@@ -41,3 +41,7 @@ permalink: /about/
 - [FastDVDnet](https://github.com/m-tassano/fastdvdnet) video denoiser
 - [DVDnet](https://github.com/m-tassano/dvdnet) video denoiser
 - An implementation and online demo of the [FFDNet](https://www.ipol.im/pub/art/2019/231) image denoiser
+
+## Projects
+
+- I had the chance to be part of the [ANTELSAT](https://iie.fing.edu.uy/investigacion/grupos/lai/) project, in which we successfully built and launched the first Uruguayan satellite
